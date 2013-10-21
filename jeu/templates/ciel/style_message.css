@@ -1,0 +1,40 @@
+body {
+	background-color:#A2BAF9;
+	color:#333399;
+}
+.msg_info {
+	background: #D5DAFF;
+	border: 1px solid #FFFFFF;
+	
+	background-position: 5px 5px;
+	position:absolute;
+	
+	padding: 8px;
+	left: 50%; 
+	top: 50%;
+	width: 340px;
+	height: 140px;
+	margin-top: -100px;
+	margin-left: -200px;
+}
+h4, h3 {
+	font-size:medium;
+	font-style:italic;
+	color:#FF3300;
+	margin:0px;
+}
+p{
+	line-height:2em;
+	margin:0px;
+	font-size:small;
+	color:#333399;
+}
+.attente{
+	font-style:oblique;
+	text-indent:10px;
+}
+a, a:active, a:visited, a:link { 
+	color:#339900; 
+	text-decoration:none;
+}
+a:hover { color:#FF3300; text-decoration:underline; }

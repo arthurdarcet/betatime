@@ -1,0 +1,143 @@
+body {
+	margin:0;
+	padding:0;
+	background: url(images/bg_left.gif) repeat-y #fff;
+}
+
+
+#menu_gauche {
+	position: absolute;
+	left:0;
+	top:0;
+	width:196px;
+	background: url(images/menu_haut.jpg) no-repeat transparent;
+	padding-top:220px;
+}
+
+#milieu {
+	background:#fff;
+	margin-left: 196px;
+	margin-right:201px;
+}
+
+html>body #milieu {
+	margin-left: 196px;
+	margin-right:201px;
+}
+
+#milieu .block {
+text-align:justify;
+margin: 10px 10px 10px 0;
+padding:10px 7px 10px 7px;
+border:1px solid black;
+background-color:transparent;
+}
+
+#milieu .block  h4{
+margin: 0 0 10px 0;
+border-bottom:1px solid black;
+background: url(images/fond_barre.gif) repeat-x top left transparent;
+}
+
+#menu_droite {
+	position: absolute;
+	right:0;
+	bottom:0;
+	top:70px;
+	width:200px;
+	padding-top:50px;
+	background: url(images/support_bg.gif) repeat-y top left transparent;
+}
+	
+#ban {
+	background: url(images/haut.jpg) repeat-y top left transparent;
+	height:70px;
+	margin-right:210px;
+	margin-left:196px
+}
+html>body #ban {
+	height:70px;
+}
+
+table.ressources p {
+margin:0;
+padding:0;
+}
+	
+#menu_haut {
+	padding: 0;
+	margin:0;
+	height: 36px;
+	width:100%;
+	background-color:#000;
+	border-top: 1px solid #999;
+	border-bottom: 1px solid #999;
+	border-right: 1px solid #999;
+}
+
+#menu_haut li {
+	position:relative;
+	top:9px;
+	display:inline;
+	margin-left:10px;
+}
+
+#menu_haut li a {
+	text-decoration: none;
+	font-weight: bold;
+	color: white;
+	padding:5px;
+	background-color:#16548f;
+	border:1px solid #2590de;
+}
+
+#menu_haut li a:hover {
+	color:black;
+	background-color:#95c9ef;
+}
+
+#pied {
+	position:absolute;
+	bottom:0;
+	right:199px;
+	left:183px;
+	background-color:black;
+	color:white;
+	height: 23px;
+	text-align: center;
+	border: 1px solid #999;
+}
+#pied a {
+	color:#2590DE;
+}
+
+#contenu {
+position:absolute;
+bottom:25px;
+top:108px;
+right:200px;
+left:196px;
+overflow:auto;
+}
+
+#menu_gauche .block {
+background-color:#95c9ef;
+margin-left:7px;
+margin-right:20px;
+margin-bottom:3px;
+border:1px solid black;
+}
+
+#menu_gauche .block h3,h4{
+padding:0;
+margin:0;
+text-align:center;
+text-decoration:underline;
+}
+p{
+	font-size:14px;
+}
+a{
+	font-size:13px;
+	color:#000000;
+}

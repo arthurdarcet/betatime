@@ -1,0 +1,1 @@
+<li><a href="?page=alliance&&p2=liste_alliance">Liste des alliances</a></li>

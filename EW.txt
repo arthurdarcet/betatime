@@ -1,0 +1,33 @@
+1 Page accueil membre : le Aucune dans production est trop long : mettre un - ou /
+
+2 Partout ou du texte est ecrit, il faudrait un fond beige clair sous le texte (pas partout, juste la ou il y a des textes, des rectangles pour délimiter des zones de texte) ; nottament le déroulant dans les constructions devrait etre beige clair
+
+3 les tableaux devraient avoir des lignes en gris très clair pour marquer un peu les cases, parce que l'aplat de blanc fait mal aux yeux
+
+4 Pareil que le Aucune : les X dans la page troupe font moche : - je dirai
+
+5 la barre de menu entourée par deux <hr /> est plutot pas joli du tout, il faudrait une image de fond
+
+6 La ban est pas fabuleuse, j'écrirai ellas war en plus gros, et je la ferai moins épaisse, c'est très désagreable de ne quasiment rien voir de la page je trouve
+
+7 Mon écran est 16/9, les deux bandes jaune vif sur les cotés font tache : Perso j'aime les design extensible, mais c'est tellement plus dur ^^ ; il faudrait modifier la ban pour qu'elle soit plus fine, que la baniere soit entourée de deux dessins extensibles pour que la place au centre soit optimale. Les deux guerriers peuvent rester comme ca, mais les liens en dessous devraient remonter un peu, pour se mettre au dessous ou sous les guerriers en partie.
+
+8 La bande de 1cm de blanc au dessus de la baniere devrait faire 2mm
+
+9 Les deux menus a dte et a gauche sont différents, ca fait bizzare : celui de dte laisse voir le fond blanc, et claquer celui de gauche sur celui de dte serait donc pas joli ; mais celui de gauche est bien moche quand meme ^^
+
+10 Les deux bandes lattérales (de chaques cotés) orange pale ne servent a rien et sont trop épaisses (voir font tache avec le orange un tout petit peu différent a coté a dte.
+
+11 Le gros RETOUR EN HAUT ne sert a rien je pense, ou devrait etre dans le footer en tout petit (une petite fleche avec un petit texte, pas un gros casque et vase, on a compris que tu aimais ca ^^)
+
+12 Je ne dis rien sur le panel admin, qui s'inspire joliment de mon theme BT, mais en moins beau je trouve ^^. Tu devrais utiliser le thème du jeu pour rajouter qq pages d'admin, ca t'evite de refaire un theme, et c'est plus agreable
+
+13 Les head des tableaux devrait tjs etre en gras (ou d'une autre couleur), et séparés d'un trait du reste (il y a des tbl ou ce n'est pas du tout séparé, pas meme de gras) 
+
+14 Le guerrier de dte est trop a gauche : il devrait etre a limite de dépasser sur le fond orangatre
+
+15 Le MENU a gauche en haut me donne l'impression qu'il y a un menu de resto en dessous
+
+16 Le arial comme police pour ecrire des texte c'est pas génial, je préférerai du times new roman...
+
+17 Les gros titre en noir a gauche sont très moches, il faudrait un truc plus joli, peut etre des image pour mettre un texte avec une belle police et un pt logo a coté

@@ -1,0 +1,1 @@
+Il y a actuellement {TOTAL} personnes connectés sur Betatimes ({INVITE} invités et {EN_LIGNE} joueurs connectés) !

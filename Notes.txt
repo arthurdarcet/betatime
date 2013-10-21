@@ -1,0 +1,43 @@
+hack :
+	0 Mineur, ne veut pas vraiment dire qqch
+	1 Modification du html basique, ou de l'adresse web (modifier un menu déroullant), ie contourner des protections js ou html
+	2 Essaye de voler une ressource
+	3 Essaye de se faire passer pour un autre joueur
+	4 Essaye de se faire passer pour un admin 
+	5 
+
+users :
+level = niveau d'accreditation :
+	0 joueur
+	1 beta testeur
+	2 MJ
+	3 codeur
+	4
+	5 Dieu (moi)
+actif =
+	0 Compte normal
+	1 
+	2 Vacances
+	3 Suspendu
+	4 Banni
+	5 Hacker
+	
+	
+bt_thèmes :
+statut =
+	0 Accepté
+	1 En attente de validation
+	2 En construction
+	3 Refusé
+	
+bat_user :
+class =
+	0 clone
+	1 prototype
+	2 def
+	3 prod
+	4 stockage
+destructible =
+	0 oui
+	1 non
+	

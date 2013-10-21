@@ -1,0 +1,15 @@
+<p>Betatimes est un jeu de stratégie en ligne entièrement gratuit qui se déroule dans le futur.
+<br /><br />
+La Terre a été détruite et vous devez construire une base pour survivre.<br />
+Lorsque vous aurez levé une armée et que vos défenses seront construites, vous pourrez affronter vos ennemis, rejoindre une alliance et vous livrer à des guerres féroces et impitoyables.<br /></p>
+<br />
+<p>Mais avant le combat, il faut se préparer.<br />
+Avant d’acheter des ateliers de frappe, et de produire la monnaie qui alimentera vos campagnes, vous devez produire l’électricité qui les alimentera. Pour augmenter encore votre capital et être plus aisé dans la bataille, développez un commerce et produisez du gaz ou d’autres ressources que vous revendrez. 
+<br /><br />
+Dans ce monde futuriste où les tyrans sans foi ni loie règnent, vous disposerez de mercenaires mais aussi d'engins mécanisés comme les modules, les cyborgs et les capsules. A travers votre quête, vous gravirez les échelons de la gloire et vous pourrez vous hissez vers les sommets, qui ne sont parfois qu'éphemeres... 
+<br /><br />
+Mais avant même de disposer d’une si grande armée, découvrez Beta-Times, ses secrets et ses particularités.</p>
+<br />
+<p>Vous voulez rejoindre la communauté et créer votre empire ?<br>
+Alors <a href="index.php?page=inscription">Inscrivez-vous</a> !</p>
+6

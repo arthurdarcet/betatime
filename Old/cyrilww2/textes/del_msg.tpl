@@ -1,0 +1,1 @@
+<p>Message suppprimé avec succes, cliquez <a href="index.php?page=msg_recu">ici</a> pour retourner a votre boite de messagerie</p>

@@ -1,0 +1,8 @@
+1. Achat d'unité sans avoir de nourriture.
+2. Achat de panneaux solaires sans eau
+3. Probleme d'affichage sur plusieurs rapport : ils sont tous vus d'un coup
+4. Rapport d'attaque faux : tous les bat détruits ne sont pas affiché, qq problemes de cohérence des phrases (si que des bat détruits par ex)
+5. Si l'attaquand perd, il perd toutes ses unités, mais le défenseur perd rien du tout
+6. Rajouter une possibilité de démobiliser des troupes : elles sont au repos (participent aux attaques uniquement, attaque et défense, défense seulement ou rien)? Ou alors une page de méthode d'attaque avant d'attaquer, qui demande combien d'unité envoyer au combat.
+7. Affichage des Baraquements dans les bat de prod d'unit, pas de stockage
+8. Reunir les bat militaires / bat éco / unités ??
